@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @i759
+- 👋 Hi, I’m Racheal
 - 👀 I’m interested in vueJs
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on developing Gis and building reusable components with vue.
